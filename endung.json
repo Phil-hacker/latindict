@@ -56,7 +56,26 @@
 		"issetis": "2. Person Plural Imperfekt Aktiv Konjunktiv",
 		"issent": "3. Person Plural Imperfekt Aktiv Konjunktiv"
 	},{
-		
+		"a":"Nominativ Singular Feminin",
+		"ae":"Genitiv Singular, Dativ Singular oder Nominativ Plural Feminin",
+		"am":"Akkusativ Singular Feminin",
+		"a":"Ablativ Singular Feminin",
+		"arum":"Genitiv Plural Feminin",
+		"is":"Dativ Plural oder Ablativ Plural Feminin",
+		"as":"Akkusativ Plural Feminin",
+		"us":"Nominativ Singular Maskulin",
+		"i":"Genitiv Singular oder Nominativ Plural Maskulin",
+		"o":"Dativ Singular oder Ablativ Singular Maskulin",
+		"um":"Akkusativ Singular Maskulin",
+		"orum":"Genitiv Plural Maskulin",
+		"is":"Dativ Plural oder Ablativ Plural Maskulin",
+		"os":"Akkustaiv Plural Maskulin",
+		"um":"Nominativ Singular oder Akkusativ Singular Neutrum"
+		"i":"Genitiv Singular Neutrum",
+		"o":"Dativ Singular oder Ablativ Singular Neutrum",
+		"a":"Nominativ Plural oder Akkusativ Plural Neutrum",
+		"orum":"Genitiv Plural Neutrum",
+		"is":"Dativ Plural oder Ablativ Plural Neutrum"
 	}], 
 	"ve":[{
 		"o":"1. Person Singular Präsens Aktiv Indikativ",
