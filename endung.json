@@ -1,4 +1,5 @@
-{"va":[{
+{
+	"va":[{
 		"o":"1. Person Singular Präsens Aktiv Indikativ",
 		"as":"2. Person Singular Präsens Aktiv Indikativ",
 		"at":"3. Person Singular Präsens Aktiv Indikativ",
@@ -54,7 +55,10 @@
 		"issemus": "1. Person Plural Imperfekt Aktiv Konjunktiv",
 		"issetis": "2. Person Plural Imperfekt Aktiv Konjunktiv",
 		"issent": "3. Person Plural Imperfekt Aktiv Konjunktiv"
-	}], "ve":[{
+	},{
+		
+	]], 
+	"ve":[{
 		"o":"1. Person Singular Präsens Aktiv Indikativ",
 		"s":"2. Person Singular Präsens Aktiv Indikativ",
 		"t":"3. Person Singular Präsens Aktiv Indikativ",
@@ -296,29 +300,69 @@
 		"issent": "3. Person Plural Perfekt Aktiv Konjunktiv"
 	}
 	],
-	"saf":[
+	"sa":[
 	{
-	"a":"Nominativ Singular"
+		"a":"Nominativ Singular"
 	},{
-	"ae":"Genitiv Singular, Dativ Singular oder Nominativ Plural",
-	"am":"Akkusativ Singular",
-	"a":"Ablativ Singular",
-	"arum":"Genitiv Plural",
-	"is":"Dativ Plural oder Ablativ Plural",
-	"as":"Akkusativ Plueal"
+		"ae":"Genitiv Singular, Dativ Singular oder Nominativ Plural",
+		"am":"Akkusativ Singular",
+		"a":"Ablativ Singular",
+		"arum":"Genitiv Plural",
+		"is":"Dativ Plural oder Ablativ Plural",
+		"as":"Akkusativ Plueal"
 	}
 	],
 	"som":[
 	{
-	"us":"Nominativ Singular"
+		"us":"Nominativ Singular"
 	},{
-	"i":"Genitiv Singular oder Nominativ Plural",
-	"o":"Dativ Singular oder Ablativ Singular",
-	"um":"Akkusativ Singular",
-	"orum":"Genitiv Plural",
-	"is":"Dativ Plural oder Ablativ Plural",
-	"os":"Akkustaiv Plural"
+		"i":"Genitiv Singular oder Nominativ Plural",
+		"o":"Dativ Singular oder Ablativ Singular",
+		"um":"Akkusativ Singular",
+		"orum":"Genitiv Plural",
+		"is":"Dativ Plural oder Ablativ Plural",
+		"os":"Akkustaiv Plural"
 	}
-	]
+	],
+	"son":[{
+		"um":"Nominativ Singular oder Akkusativ Singular"
+	},{
+		"i":"Genitiv Singular",
+		"o":"Dativ Singular oder Ablativ Singular",
+		"a":"Nominativ Plural oder Akkusativ Plural"
+		"orum":"Genitiv Plural",
+		"is":"Dativ Plural oder Ablativ Plural"
+	     }],
+	"su":[{
+		"us":"Nominativ Singular oder Genitiv Singular oder Nominativ Plural oder Akkustaiv Plural"
+	},{
+		"ui":"Dativ Singular",
+		"um":"Akkusativ Singular",
+		"u":"Ablativ Singular",
+		"uum":"Genitiv Plural",
+		"ibus":"Dativ Plural oder Ablativ Plural"
+	}],
+	"sm":[{
+		"":"Nominativ Singular"
+	},{
+		"is":"Genitiv Singular",
+		"i":"Dativ Singular",
+		"em":"Akkusativ Singular",
+		"e":"Ablativ Singular",
+		"es":"Nominativ Plural oder Akkusativ Plural"
+		"um":"Genitiv Plural"
+		"ibus":"Dativ Plural oder Ablativ Plural"
+	}],
+	"smn":[{
+		"":"Nominativ Singular oder Akkusativ Singualar"
+	},{
+		"is":"Genitiv Singular",
+		"i":"Dativ Singular",
+		"e":"Ablativ Singular",
+		"a":"Nominativ Plural oder Akkusativ Plural"
+		"um":"Genitiv Plural"
+		"ibus":"Dativ Plural oder Ablativ Plural"
+	}]
+				
 	
 }
