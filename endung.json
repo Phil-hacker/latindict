@@ -329,7 +329,7 @@
 	},{
 		"i":"Genitiv Singular",
 		"o":"Dativ Singular oder Ablativ Singular",
-		"a":"Nominativ Plural oder Akkusativ Plural"
+		"a":"Nominativ Plural oder Akkusativ Plural",
 		"orum":"Genitiv Plural",
 		"is":"Dativ Plural oder Ablativ Plural"
 	     }],
@@ -349,8 +349,8 @@
 		"i":"Dativ Singular",
 		"em":"Akkusativ Singular",
 		"e":"Ablativ Singular",
-		"es":"Nominativ Plural oder Akkusativ Plural"
-		"um":"Genitiv Plural"
+		"es":"Nominativ Plural oder Akkusativ Plural",
+		"um":"Genitiv Plural",
 		"ibus":"Dativ Plural oder Ablativ Plural"
 	}],
 	"smn":[{
@@ -359,8 +359,8 @@
 		"is":"Genitiv Singular",
 		"i":"Dativ Singular",
 		"e":"Ablativ Singular",
-		"a":"Nominativ Plural oder Akkusativ Plural"
-		"um":"Genitiv Plural"
+		"a":"Nominativ Plural oder Akkusativ Plural",
+		"um":"Genitiv Plural",
 		"ibus":"Dativ Plural oder Ablativ Plural"
 	}]
 				
